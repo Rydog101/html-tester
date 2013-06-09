@@ -1,2 +1,2 @@
-html-tester
+html tester
 ===========
